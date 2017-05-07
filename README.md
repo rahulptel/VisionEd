@@ -7,3 +7,8 @@ The block based approach makes it easy for amateurs to test out their ideas with
 Also, the extensive library of blocks allows experts to quickly simulate advanced vision algorithms.
 </p>
 <h3 style="text-align:center"><a href="https://goo.gl/hlIYd8"> Live Demo </a></h3>
+
+# Contributors (github.com/)
+- Shashwat Sanghavi (srsanghavi)
+- Rahul Patel (rahulptel)
+- Shoghi Bagul
